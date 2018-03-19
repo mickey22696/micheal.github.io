@@ -202,6 +202,24 @@ a{
   color: black;
 }
 
+footer{
+  background-color: black;
+  width: 100vw;
+  height: 5vh;
+  position: fixed;
+  bottom:0;
+
+
+}
+.footertext{
+  color:white;
+  position: relative;
+  text-align: center;
+  margin: auto;
+  padding-top: 1.5vh;
+  letter-spacing: 0.2vw;
+}
+
 
 
 
